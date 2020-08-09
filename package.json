@@ -1,4 +1,13 @@
 {
+  "name": "canvas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DanielLotos/canvas-game.git",
+  "author": "Denis Kratos <dkratos@shakuro.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "percel index.html"
+  },
   "devDependencies": {
     "sass": "^1.26.10",
     "typescript": "^3.9.7"
